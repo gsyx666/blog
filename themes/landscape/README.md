@@ -68,11 +68,7 @@ google_plus:
 ## Features
 
 
-```
-![img caption](img url)
 
-{% fancybox img_url [img_thumbnail] [img_caption] %}
-```
 
 ### Sidebar
 
